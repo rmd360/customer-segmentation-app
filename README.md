@@ -4,7 +4,6 @@ This is an interactive Streamlit web app for performing customer segmentation us
 
 You can upload your own dataset (CSV), choose the features to cluster, and explore customer segments for targeted marketing and revenue optimization.
 
----
 
 ## 🚀 Live Demo
 
